@@ -4,12 +4,12 @@ A TypeScript-based AI automation framework demonstrating best practices for buil
 
 ## Features
 
-- 🤖 **AI-Powered Task Planning** - Uses LLMs to break down complex tasks into executable steps
-- 🔧 **Extensible Tool System** - Registry-based tool management with OpenAI function calling support
-- 🔄 **Retry & Circuit Breaker** - Production-grade resilience patterns
-- 📊 **Structured Logging** - Comprehensive observability with Pino
-- ✅ **Type Safety** - Full TypeScript with Zod validation
-- 🧪 **Testing** - Vitest test suite included
+- **AI-Powered Task Planning** - Uses LLMs to break down complex tasks into executable steps
+- **Extensible Tool System** - Registry-based tool management with OpenAI function calling support
+- **Retry & Circuit Breaker** - Production-grade resilience patterns
+- **Structured Logging** - Comprehensive observability with Pino
+- **Type Safety** - Full TypeScript with Zod validation
+- **Testing** - Vitest test suite included
 
 ## Architecture
 
